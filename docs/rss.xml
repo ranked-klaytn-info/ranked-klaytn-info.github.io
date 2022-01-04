@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+<channel>
+<title>Ranked.</title>
+<link>https://ranked.klaytn.info</link>
+<description>Klaytn Ecosystem's DApp Ranking</description>
+<language>ko</language>
+<pubDate>Wed, 30 Apr 2021 18:00:00 +0900</pubDate>
+<generator>Ranked.</generator>
+<ttl>100</ttl>
+<managingEditor>Ranked.</managingEditor>
+<item>
+<title>Klaytn Ecosystem's DApp Ranking System</title>
+<link>https://ranked.klaytn.info</link>
+<description></description>
+<category>token</category>
+<category>nft</category>
+<category>klaytn</category>
+<category>klay</category>
+<category>ecosystem</category>
+<category>dapp</category>
+<category>ranking</category>
+<category>rank</category>
+<category>searching</category>
+<category>search</category>
+<category>defi</category>
+<category>stable</category>
+<category>autofarm</category>
+<category>compounding</category>
+<category>compound</category>
+<category>farm</category>
+<category>pool</category>
+<category>klip</category>
+<category>kaikas</category>
+<category>decent</category>
+<category>pocket</category>
+<category>metamask</category>
+<category>klayswap</category>
+<category>definix</category>
+<category>bluewhale</category>
+<category>kaiprotocol</category>
+<category>klaymore</category>
+<category>orca</category>
+<category>tutleking</category>
+<category>klayfi</category>
+<category>ksp</category>
+<category>vksp</category>
+<category>ranked</category>
+<category>ranked.</category>
+<category>랭크</category>
+<category>랭크드</category>
+<category>랭크드.</category>
+<author>Ranked.</author>
+<guid isPermaLink="true">https://ranked.klaytn.info</guid>
+<pubDate>Wed, 28 Apr 2021 18:00:00 +0900</pubDate>
+</item>
+</channel>
+</rss>
